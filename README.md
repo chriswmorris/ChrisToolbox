@@ -1,5 +1,5 @@
 # ChrisToolbox
-A script to display useful networking and host information
+<b> A script to display useful networking and host information </b>
 
 By Chris Morris
 
@@ -7,7 +7,7 @@ For Unix-Based Operating Systems
 
 Requires Python 3.5 or Higher
 
-
+<br>
 
 <h2>Installations</h2>
 
@@ -37,6 +37,7 @@ Requires Python 3.5 or Higher
 
 
 <h2> Parameters </h2>
+
 <i> Usage: ChrisToolbox.py [-h] [-c] [-a] [-s] [-sc] [-i] [-r] [-e] </i> <br>
 
 | Parameter     | Optional Parameter| Information  |
