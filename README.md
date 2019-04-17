@@ -8,6 +8,7 @@ For Unix-Based Operating Systems
 Requires Python 3.5 or Higher
 
 
+
 <h2>Installations</h2>
 
 <h3> Python3 Dependencies </h3>
