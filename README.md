@@ -7,7 +7,6 @@ For Unix-Based Operating Systems
 
 Requires Python 3.5 or Higher
 
-<br><br>
 
 <h2>Installations</h2>
 
