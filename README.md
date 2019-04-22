@@ -1,4 +1,4 @@
-# ChrisToolbox
+# Chris' Network Toolbox
 <b> A script to display useful networking and host information </b>
 
 By Chris Morris
@@ -22,7 +22,7 @@ Requires Python 3.5 or Higher
 
 <i>Usually requires to be run as sudo </i>
   
-<h4> Debian </h>
+<h4> Debian </h4>
 
 <code> apt install dnsutils net-tools screenfetch </code>
 
